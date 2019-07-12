@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ALC 4.0</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="name">Charles Mwangi</string>
+    <string name="track">Android</string>
+    <string name="country">Kenya</string>
+    <string name="email">charlimwangi12@gmail.com</string>
+    <string name="number">+254700581532</string>
+</resources>
